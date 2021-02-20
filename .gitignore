@@ -1,0 +1,8 @@
+/History
+/Project Logs for LCDuino
+/Project Outputs for LCDuino
+*.OutJob
+*.PcbDocPreview
+*.PrjPCBStructure
+*.SchDocPreview
+*.htm
